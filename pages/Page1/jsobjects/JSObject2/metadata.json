@@ -8,11 +8,11 @@
     "pluginType": "JS",
     "variables": [
       {
-        "name": "myVar1",
+        "name": "myVar11",
         "value": "[]"
       },
       {
-        "name": "myVar2",
+        "name": "myVar12",
         "value": "{}"
       }
     ]
