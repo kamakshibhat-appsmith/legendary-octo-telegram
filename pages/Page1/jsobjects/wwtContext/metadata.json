@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "67a46bceff735358b150d01b_b1b0c4c1-19d2-42a7-92ae-e99ae6255dee",
+  "id": "Page1__$wwtContext$_JSModule1",
+  "isPublic": true,
+  "moduleInstanceId": "Page1_wwtContext",
+  "rootModuleInstanceId": "Page1_wwtContext",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$wwtContext$_JSModule1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}
